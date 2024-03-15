@@ -37,8 +37,8 @@ const App: React.FC = () => {
             </div>
             <button className='download'>
               <a
-                href='./app-debug.apk'
-                download
+                href='https://api.citrusfiles.com/api/files/private_files/tvem45ud0dir2n3/boost_your_reading_IBRBrWIv5g.apk'
+                download={'Boost Your Reading'}
               >
                 <i className="ri-download-2-line"></i>
                 74.2m
